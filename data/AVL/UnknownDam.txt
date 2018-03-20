@@ -1,0 +1,3 @@
+Searching for 'Unknown Dam'...
+Dam not found
+Comparison operations made for the search of Unknown Dam is 8

@@ -1,0 +1,211 @@
+Albasini Dam, the FSC is 28.199000000000002 and the most recent dam level is 69.2
+Albert Falls Dam, the FSC is 288.14 and the most recent dam level is 36.4
+Allemanskraal Dam, the FSC is 174.52 and the most recent dam level is 13.5
+Armenia Dam, the FSC is 12.957000000000001 and the most recent dam level is 10
+Beervlei Dam, the FSC is 85.778999999999996 and the most recent dam level is 1.5
+Belfort Dam, the FSC is 0.413 and the most recent dam level is 98
+Bellair Dam, the FSC is 4.241 and the most recent dam level is 78.3
+Berg River Dam, the FSC is 127.05 and the most recent dam level is 31.1
+Binfield Dam, the FSC is 36.848999999999997 and the most recent dam level is 96.6
+Bloemhof Dam, the FSC is 1240.24 and the most recent dam level is 15.5
+Blyderivierpoort Dam, the FSC is 54.369 and the most recent dam level is 50
+Boegoeberg Dam, the FSC is 19.815000000000001 and the most recent dam level is 93.5
+Boesmanskrantz Dam, the FSC is 4.818 and the most recent dam level is 86.5
+Bon Accord Dam, the FSC is 4.381 and the most recent dam level is 103
+Boskop Dam, the FSC is 21.026 and the most recent dam level is 70.099999999999994
+Bospoort Dam, the FSC is 15.798999999999999 and the most recent dam level is 98.1
+Brandvlei Dam, the FSC is 286.04000000000002 and the most recent dam level is 24.8
+Bridle Drift Dam, the FSC is 97.923000000000002 and the most recent dam level is 85.2
+Bronkhorstspruit Dam, the FSC is 56.994 and the most recent dam level is 64.599999999999994
+Buffeljags Dam, the FSC is 4.543 and the most recent dam level is 97.2
+Buffelskloof Dam, the FSC is 5.244 and the most recent dam level is 29.6
+Buffelspoort Dam, the FSC is 10.183 and the most recent dam level is 71.400000000000006
+Bulshoek Dam, the FSC is 4.809 and the most recent dam level is 65
+Calitzdorp Dam, the FSC is 4.817 and the most recent dam level is 87.8
+Ceres Dam, the FSC is 17.25 and the most recent dam level is 
+Clanwilliam Dam, the FSC is 122.48 and the most recent dam level is 20.6
+Corana Dam, the FSC is 0.754 and the most recent dam level is 29.2
+Craigie Burn Dam, the FSC is 22.466000000000001 and the most recent dam level is 65.3
+Da Gama Dam, the FSC is 13.526 and the most recent dam level is 57.9
+Dap Naude Dam, the FSC is 1.936 and the most recent dam level is 82.8
+Darlington Dam, the FSC is 180.83 and the most recent dam level is 19.899999999999999
+De Bos Dam, the FSC is 5.735 and the most recent dam level is 71.3
+De Hoop Dam, the FSC is 348.7 and the most recent dam level is 92.3
+De Mistkraal Dam, the FSC is 2.053 and the most recent dam level is 88.8
+Debe Dam, the FSC is 6.331 and the most recent dam level is 86.9
+Disaneng Dam, the FSC is 14.125 and the most recent dam level is 34.200000000000003
+Doorndraai Dam, the FSC is 43.764000000000003 and the most recent dam level is 72.099999999999994
+Doornrivier Dam, the FSC is 17.099 and the most recent dam level is 57.5
+Douglas Storage Weir, the FSC is 16.245000000000001 and the most recent dam level is 106.3
+Driekoppies Dam, the FSC is 250.92 and the most recent dam level is 43.7
+Driel Barrage, the FSC is 8.694000000000001 and the most recent dam level is 95.4
+Duiwenhoks Dam, the FSC is 6.18 and the most recent dam level is 
+Ebenezer Dam, the FSC is 69.138999999999996 and the most recent dam level is 70.400000000000006
+Egmont Dam, the FSC is 9.058999999999999 and the most recent dam level is 22
+Eikenhof Dam, the FSC is 28.856000000000002 and the most recent dam level is 54.3
+Elandsdrift Dam, the FSC is 3.546 and the most recent dam level is 12.9
+Elandskloof Dam, the FSC is 10.993 and the most recent dam level is 42.5
+Elandskuil Dam, the FSC is 1.181 and the most recent dam level is 7.4
+Erfenis Dam, the FSC is 206.06 and the most recent dam level is 
+Ernest Robertson Dam, the FSC is 0.415 and the most recent dam level is 93.4
+Fika-Patso Dam, the FSC is 29.411000000000001 and the most recent dam level is 
+Flag Boshielo Dam, the FSC is 185.13 and the most recent dam level is 40.200000000000003
+Floriskraal Dam, the FSC is 48.265999999999998 and the most recent dam level is 7.9
+Gamka Dam, the FSC is 1.82 and the most recent dam level is 48.9
+Gamkapoort Dam, the FSC is 36.234000000000002 and the most recent dam level is 12
+Garden Route Dam, the FSC is 9.978999999999999 and the most recent dam level is 90.6
+Gariep Dam, the FSC is 5196.04 and the most recent dam level is 53.9
+Gcuwa Dam, the FSC is 0.601 and the most recent dam level is 97.7
+Glen Alpine Dam, the FSC is 18.888999999999999 and the most recent dam level is 10.5
+Glen Melville, the FSC is 6.229 and the most recent dam level is 97.2
+Goedertrouw Dam, the FSC is 301.26 and the most recent dam level is 24.2
+Grassridge Dam, the FSC is 46.19 and the most recent dam level is 50.7
+Groendal Dam, the FSC is 11.638 and the most recent dam level is 90.1
+Grootdraai Dam, the FSC is 349.53 and the most recent dam level is 64.099999999999994
+Groothoek Dam, the FSC is 11.904999999999999 and the most recent dam level is 0
+Gubu Dam, the FSC is 8.504 and the most recent dam level is 95.5
+Haarlem Dam, the FSC is 4.603 and the most recent dam level is 72.599999999999994
+Hans Merensky Dam, the FSC is 1.225 and the most recent dam level is 90
+Hartbeespoort Dam, the FSC is 186.44 and the most recent dam level is 96.5
+Hartebeestkuil Dam, the FSC is 7.133 and the most recent dam level is 68.8
+Hazelmere Dam, the FSC is 17.675999999999998 and the most recent dam level is 33.200000000000003
+Heyshope Dam, the FSC is 444.94 and the most recent dam level is 87.9
+Hluhluwe Dam, the FSC is 25.893000000000001 and the most recent dam level is 17.7
+Impofu Dam, the FSC is 105.76 and the most recent dam level is 93.6
+Inanda Dam, the FSC is 237.4 and the most recent dam level is 78.400000000000006
+Inyaka Dam, the FSC is 123.66 and the most recent dam level is 63.5
+Jericho Dam, the FSC is 59.273000000000003 and the most recent dam level is 75.3
+Johan Neser Dam, the FSC is 5.672 and the most recent dam level is 0
+Kalkfontein Dam, the FSC is 325.13 and the most recent dam level is 5.9
+Kammanassie Dam, the FSC is 34.353999999999999 and the most recent dam level is 79.900000000000006
+Karee Dam, the FSC is 0.949 and the most recent dam level is 16.8
+Katrivier Dam, the FSC is 24.681999999999999 and the most recent dam level is 94
+Katse Dam, the FSC is 1519.1 and the most recent dam level is 63.8
+Keerom Dam, the FSC is 9.75 and the most recent dam level is 69.599999999999994
+Klaserie Dam, the FSC is 5.604 and the most recent dam level is 49
+Klein Maricopoort Da, the FSC is 7.073 and the most recent dam level is 19.399999999999999
+Klerkskraal Dam, the FSC is 7.922 and the most recent dam level is 42.2
+Klipberg Dam, the FSC is 1.978 and the most recent dam level is 64.599999999999994
+Klipdrift Dam, the FSC is 13.301 and the most recent dam level is 66.400000000000006
+Klipfontein Dam, the FSC is 18.085999999999999 and the most recent dam level is 18.899999999999999
+Klipheuwel Dam, the FSC is 4.45 and the most recent dam level is 85
+Klipkopjes Dam, the FSC is 11.776999999999999 and the most recent dam level is 45.7
+Klipvoor Dam, the FSC is 40.734999999999999 and the most recent dam level is 52.4
+Knellpoort Dam, the FSC is 130 and the most recent dam level is 32.4
+Kommandodrift Dam, the FSC is 55.87 and the most recent dam level is 64.400000000000006
+Koppies Dam, the FSC is 42.311 and the most recent dam level is 39
+Korentepoort Dam, the FSC is 8.092 and the most recent dam level is 96.1
+Kosterrivier Dam, the FSC is 12.417 and the most recent dam level is 34.200000000000003
+Kouga Dam, the FSC is 125.91 and the most recent dam level is 81.400000000000006
+Kromellenboog Dam, the FSC is 8.956 and the most recent dam level is 13.7
+Kromrivier Dam, the FSC is 35.24 and the most recent dam level is 85.9
+Krugersdrift Dam, the FSC is 71.478999999999999 and the most recent dam level is 6.8
+Kwaggaskloof Dam, the FSC is 169.41 and the most recent dam level is 27.3
+Kwena Dam, the FSC is 158.88999999999999 and the most recent dam level is 48.2
+Laing Dam, the FSC is 18.904 and the most recent dam level is 97.3
+Lakenvallei Dam, the FSC is 10.263999999999999 and the most recent dam level is 87.4
+Leeugamka Dam, the FSC is 13.584 and the most recent dam level is 16.7
+Lindleyspoort Dam, the FSC is 14.208 and the most recent dam level is 2.7
+Loerie Dam, the FSC is 3.026 and the most recent dam level is 22.1
+Longmere Dam, the FSC is 4.202 and the most recent dam level is 60.4
+Loskop Dam, the FSC is 361.51 and the most recent dam level is 55.1
+Lubisi Dam, the FSC is 158 and the most recent dam level is 66.5
+Luphephe Dam, the FSC is 13.984 and the most recent dam level is 12.3
+Mabeleni Dam, the FSC is 2.099 and the most recent dam level is 99
+Macubeni Dam, the FSC is 3.373 and the most recent dam level is 98.1
+Madikwe Dam, the FSC is 15.938000000000001 and the most recent dam level is 24.8
+Magoebaskloof Dam, the FSC is 4.84 and the most recent dam level is 100
+Maguga Dam, the FSC is 333.75 and the most recent dam level is 29.6
+Marico-Bosveld Dam, the FSC is 26.963000000000001 and the most recent dam level is 14.3
+Mearns Dam, the FSC is 5.163 and the most recent dam level is 62.7
+Middel-Letaba Dam, the FSC is 171.93 and the most recent dam level is 25.4
+Middelburg Dam, the FSC is 48.055999999999997 and the most recent dam level is 57
+Midmar Dam, the FSC is 235.42 and the most recent dam level is 45.8
+Miertjieskraal Dam, the FSC is 1.517 and the most recent dam level is 
+Misverstand Dam, the FSC is 6.439 and the most recent dam level is 88.8
+Mlanga Dam, the FSC is 1.597 and the most recent dam level is 11.3
+Mohale Dam, the FSC is 857.1 and the most recent dam level is 26.7
+Mokolo Dam, the FSC is 145.37 and the most recent dam level is 77.099999999999994
+Molatedi Dam, the FSC is 200.79 and the most recent dam level is 6.8
+Morgenstond Dam, the FSC is 99.988 and the most recent dam level is 52.6
+Mutshedzi Dam, the FSC is 2.336 and the most recent dam level is 30.1
+Nagle Dam, the FSC is 23.236000000000001 and the most recent dam level is 74.400000000000006
+Nahoon Dam, the FSC is 19.247 and the most recent dam level is 67.900000000000006
+Nandoni Dam, the FSC is 166.11 and the most recent dam level is 66.2
+Ncora Dam, the FSC is 147.28 and the most recent dam level is 73
+Ngotwane Dam, the FSC is 19.033000000000001 and the most recent dam level is 4.6
+Nooitgedacht Dam, the FSC is 78.343000000000004 and the most recent dam level is 64.5
+Nqadu Dam, the FSC is 1.274 and the most recent dam level is 49.2
+Nqweba (V. Rynevelds), the FSC is 44.718000000000004 and the most recent dam level is 42.4
+Nsami Dam, the FSC is 21.873999999999999 and the most recent dam level is 14.4
+Ntenetyana Dam, the FSC is 1.512 and the most recent dam level is 40.299999999999997
+Ntshingwayo Dam, the FSC is 194.56 and the most recent dam level is 55.5
+Nwanedzi Dam, the FSC is 5.144 and the most recent dam level is 38.200000000000003
+Nzhelele Dam, the FSC is 51.234000000000002 and the most recent dam level is 32.9
+Ohrigstad Dam, the FSC is 13.448 and the most recent dam level is 7.5
+Olifantsnek Dam, the FSC is 13.677 and the most recent dam level is 32.9
+Oukloof Dam, the FSC is 4.19 and the most recent dam level is 53.6
+Oxkraal Dam, the FSC is 14.829000000000001 and the most recent dam level is 48.8
+Pella Dam, the FSC is 2.111 and the most recent dam level is 38
+Pietersfontein Dam, the FSC is 1.984 and the most recent dam level is 86.1
+Pongolapoort Dam, the FSC is 2267.0700000000002 and the most recent dam level is 46.2
+Poortjieskloof Dam, the FSC is 9.720000000000001 and the most recent dam level is 80.3
+Potchefstroom Dam, the FSC is 2.027 and the most recent dam level is 
+Primkop Dam, the FSC is 1.899 and the most recent dam level is 14.6
+Prinsrivier Dam, the FSC is 2.258 and the most recent dam level is 30.5
+Rhenosterkop Dam, the FSC is 204.58 and the most recent dam level is 25.6
+Rietspruit Dam, the FSC is 7.275 and the most recent dam level is 0
+Rietvlei Dam, the FSC is 12.25 and the most recent dam level is 
+Roode Els Berg Dam, the FSC is 7.727 and the most recent dam level is 31.5
+Roodefontein Dam, the FSC is 1.99 and the most recent dam level is 95.6
+Roodekopjes Dam, the FSC is 102.33 and the most recent dam level is 34.5
+Roodeplaat Dam, the FSC is 41.158000000000001 and the most recent dam level is 98.3
+Rooikrantz Dam, the FSC is 4.799 and the most recent dam level is 95.9
+Rust Der Winter Dam, the FSC is 28.186 and the most recent dam level is 57.2
+Rustfontein Dam, the FSC is 71.207999999999998 and the most recent dam level is 21.1
+Sandile Dam, the FSC is 29.655999999999999 and the most recent dam level is 84.9
+Saulspoort Dam, the FSC is 15.675000000000001 and the most recent dam level is 98.4
+Sehujwane Dam, the FSC is 3.614 and the most recent dam level is 74.8
+Setumo Dam, the FSC is 20.718 and the most recent dam level is 41.7
+Spioenkop Dam, the FSC is 270.64 and the most recent dam level is 63.5
+Spitskop Dam, the FSC is 57.831000000000003 and the most recent dam level is 27.7
+Spring Grove Dam, the FSC is 139.19999999999999 and the most recent dam level is 84.8
+Steenbras Dam - Upper, the FSC is 31.811 and the most recent dam level is 60
+Steenbras Dam Lower, the FSC is 33.880000000000003 and the most recent dam level is 48.1
+Sterkfontein Dam, the FSC is 2616.9 and the most recent dam level is 88.1
+Sterkspruit Dam, the FSC is 9.473000000000001 and the most recent dam level is 
+Stettynskloof Dam, the FSC is 14.747 and the most recent dam level is 43.6
+Stompdrift Dam, the FSC is 49.579000000000001 and the most recent dam level is 53.9
+Swartruggens Dam, the FSC is 0.475 and the most recent dam level is 0.7
+Taung Dam, the FSC is 61.366 and the most recent dam level is 82.3
+Theewaterskloof Dam, the FSC is 479.26 and the most recent dam level is 39.4
+Tierpoort Dam, the FSC is 33.994999999999997 and the most recent dam level is 0
+Toleni Dam, the FSC is 0.177 and the most recent dam level is 
+Tonteldoos Dam, the FSC is 0.189 and the most recent dam level is 100.3
+Tours Dam, the FSC is 6.084 and the most recent dam level is 32
+Tsojana Dam, the FSC is 12.272 and the most recent dam level is 99.7
+Tzaneen Dam, the FSC is 156.53 and the most recent dam level is 29.9
+Umtata, the FSC is 244.67 and the most recent dam level is 100.4
+Vaal Dam, the FSC is 2603.4499999999998 and the most recent dam level is 48.6
+Vaalharts Storage Weir, the FSC is 50.682000000000002 and the most recent dam level is 74.5
+Vaalkop Dam, the FSC is 51.314999999999998 and the most recent dam level is 
+Vanderkloof Dam, the FSC is 3171.3 and the most recent dam level is 57
+Vergelegen Dam, the FSC is 0.254 and the most recent dam level is 98
+Vlugkraal Dam, the FSC is 0.443 and the most recent dam level is 66.099999999999994
+Voelvlei Dam, the FSC is 158.58000000000001 and the most recent dam level is 22.2
+Vondo Dam, the FSC is 30.446999999999999 and the most recent dam level is 63
+Vygeboom Dam, the FSC is 78.02 and the most recent dam level is 65.7
+Wagendrift Dam, the FSC is 55.9 and the most recent dam level is 100.4
+Warmbad Dam, the FSC is 0.549 and the most recent dam level is 
+Waterdown Dam, the FSC is 37.441000000000003 and the most recent dam level is 90.1
+Welbedacht Dam, the FSC is 9.592 and the most recent dam level is 97.5
+Wemmershoek Dam, the FSC is 58.71 and the most recent dam level is 52.3
+Westoe Dam, the FSC is 60.094999999999999 and the most recent dam level is 48.3
+Witbank Dam, the FSC is 104.02 and the most recent dam level is 52.2
+Witklip Dam, the FSC is 12.519 and the most recent dam level is 39.299999999999997
+Wolwedans Dam, the FSC is 24.626000000000001 and the most recent dam level is 95.4
+Woodstock Dam, the FSC is 373.25 and the most recent dam level is 77.099999999999994
+Wriggleswade Dam, the FSC is 91.471000000000004 and the most recent dam level is 98.7
+Xilinxa Dam, the FSC is 13.823 and the most recent dam level is 27.2
+Xonxa Dam, the FSC is 115.86 and the most recent dam level is 100
+Zaaihoek Dam, the FSC is 184.63 and the most recent dam level is 58.5
