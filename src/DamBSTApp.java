@@ -51,7 +51,11 @@ public class DamBSTApp
       binTree.insert(dam);
     }
 
-    if (args.length == 0) { printAllDams(binTree); }
+    if (args.length == 0)
+    {
+      printAllDams(binTree);
+      System.out.println("Insertion operations made: " + binTree.getInCount());
+    }
 
     else
     {
@@ -59,13 +63,13 @@ public class DamBSTApp
 
       try {
         printDam(args[0], binTree);
-        System.out.println("Comparison operations made for the search of " + args[0] + " is " + binTree.getCount());
+        System.out.println("Comparison operations made for the search of " + args[0] + " is " + binTree.getOpCount());
       }
 
       catch (Exception e)
       {
         System.out.println("Dam not found");
-	      System.out.println("Comparison operations made for the search of " + args[0] + " is " + binTree.getCount());
+	      System.out.println("Comparison operations made for the search of " + args[0] + " is " + binTree.getOpCount());
       }
     }
   }

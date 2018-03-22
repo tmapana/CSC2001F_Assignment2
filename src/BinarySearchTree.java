@@ -8,6 +8,7 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType >> ex
 {
 
   static int opCount = 0;
+  static int inCount = 0;
 
   public void insert ( Dam d )
   {
@@ -19,6 +20,7 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType >> ex
 
   public void insert ( Dam d, BinaryTreeNode<dataType> node )
   {
+     inCount();
      if (d.toString().compareTo (node.data) <= 0)
      {
         if (node.left == null)
@@ -39,7 +41,7 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType >> ex
   {
      if (root == null)
      {
-          count();
+          opCount();
 	        return null;
      }
      else
@@ -53,31 +55,42 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType >> ex
      int position = (node.data).indexOf(",");
      if (d.compareTo ((node.data).substring(0, position)) == 0)
      {
-        count();
+        opCount();
         return node;
      }
 
      else if (d.compareTo ((node.data).substring(0, position)) < 0)
      {
-        count();
+        opCount();
         return (node.left == null) ? null : find (d, node.left);
      }
 
      else
      {
-        count();
+        opCount();
         return (node.right == null) ? null : find (d, node.right);
      }
   }
 
-  public void count ()
+  public void opCount ()
   {
      opCount++;
   }
 
-  public int getCount ()
+  public void inCount ()
+  {
+     inCount ++;
+  }
+
+  public int getOpCount ()
   {
     return opCount;
   }
+
+  public int getInCount()
+  {
+    return inCount;
+  }
+
 
 }

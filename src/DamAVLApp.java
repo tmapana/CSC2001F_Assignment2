@@ -44,11 +44,7 @@ public class DamAVLApp
       avlTree.insert(dam);
     }
 
-    if (args.length == 0)
-    {
-      printAllDams(avlTree);
-      System.out.println("Insertion ")
-    }
+    if (args.length == 0) { printAllDams(avlTree); }
 
     else
     {
