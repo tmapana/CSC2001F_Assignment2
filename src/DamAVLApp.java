@@ -36,7 +36,8 @@ public class DamAVLApp
     }
 
     inputFile.nextLine();
-    for (int i=0; i<211; i++)
+    int range = 21;
+    for (int i=0; i<range; i++)
     {
       String[] damDetails = inputFile.nextLine().split(",", -1);
       dam = new Dam(damDetails[2].trim(), damDetails[10].trim(), damDetails[42].trim());
@@ -44,7 +45,11 @@ public class DamAVLApp
       avlTree.insert(dam);
     }
 
-    if (args.length == 0) { printAllDams(avlTree); }
+    if (args.length == 0)
+    {
+      printAllDams(avlTree);
+      System.out.println("Insertion count: " + avlTree.getInCount()/range);
+    }
 
     else
     {
@@ -52,13 +57,13 @@ public class DamAVLApp
 
       try {
         printDam(args[0], avlTree);
-        System.out.println("Comparison operations made for the search of " + args[0] + " is " + avlTree.getCount());
+        System.out.println("Comparison operations made for the search of " + args[0] + " is " + avlTree.getOpCount());
       }
 
       catch (Exception e)
       {
         System.out.println("Dam not found");
-        System.out.println("Comparison operations made for the search of " + args[0] + " is " + avlTree.getCount());
+        System.out.println("Comparison operations made for the search of " + args[0] + " is " + avlTree.getOpCount());
       }
     }
 

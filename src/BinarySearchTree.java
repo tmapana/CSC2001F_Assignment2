@@ -13,16 +13,19 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType >> ex
   public void insert ( Dam d )
   {
      if (root == null)
+     {
+        inCount();
         root = new BinaryTreeNode<dataType> (d, null, null);
+     }
      else
         insert (d, root);
   }
 
   public void insert ( Dam d, BinaryTreeNode<dataType> node )
   {
-     inCount();
      if (d.toString().compareTo (node.data) <= 0)
      {
+        inCount();
         if (node.left == null)
            node.left = new BinaryTreeNode<dataType> (d, null, null);
         else
@@ -30,6 +33,7 @@ public class BinarySearchTree<dataType extends Comparable<? super dataType >> ex
      }
      else
      {
+        inCount();
         if (node.right == null)
            node.right = new BinaryTreeNode<dataType> (d, null, null);
         else

@@ -43,7 +43,8 @@ public class DamBSTApp
     }
 
     inputFile.nextLine();
-    for (int i=0; i<211; i++)
+    int range = 211;
+    for (int i=0; i<range; i++)
     {
       String[] damDetails = inputFile.nextLine().split(",", -1);
       dam = new Dam(damDetails[2].trim(), damDetails[10].trim(), damDetails[42].trim());
@@ -52,10 +53,7 @@ public class DamBSTApp
     }
 
     if (args.length == 0)
-    {
       printAllDams(binTree);
-      System.out.println("Insertion operations made: " + binTree.getInCount());
-    }
 
     else
     {
@@ -64,6 +62,7 @@ public class DamBSTApp
       try {
         printDam(args[0], binTree);
         System.out.println("Comparison operations made for the search of " + args[0] + " is " + binTree.getOpCount());
+        System.out.println("Insertion operations made: " + binTree.getInCount()/range);
       }
 
       catch (Exception e)

@@ -6,6 +6,7 @@
 public class AVLTree<dataType extends Comparable<? super dataType>> extends BinaryTree<dataType>
 {
    static int opCount = 0;
+   static int inCount = 0;
 
    public int height ( BinaryTreeNode<dataType> node )
    {
@@ -64,6 +65,7 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
 
    public void insert ( Dam d )
    {
+      inCount();
       root = insert (d, root);
    }
    public BinaryTreeNode<dataType> insert ( Dam d, BinaryTreeNode<dataType> node )
@@ -71,9 +73,15 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       if (node == null)
          return new BinaryTreeNode<dataType> (d, null, null);
       if (d.toString().compareTo (node.data) <= 0)
+      {
+         inCount();
          node.left = insert (d, node.left);
+      }
       else
+      {
+         inCount();
          node.right = insert (d, node.right);
+      }
       return balance (node);
    }
 
@@ -122,7 +130,7 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
    {
       if (root == null)
       {
-         count();
+         opCount();
          return null;
       }
       else
@@ -134,29 +142,38 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
       int position = (node.data).indexOf(",");
       if (d.compareTo ((node.data).substring(0, position)) == 0)
       {
-         count();
+         opCount();
          return node;
       }
       else if (d.compareTo ((node.data).substring(0, position)) < 0)
       {
-         count();
+         opCount();
          return (node.left == null) ? null : find (d, node.left);
       }
       else
       {
-         count();
+         opCount();
          return (node.right == null) ? null : find (d, node.right);
       }
    }
 
-   public void count ()
+   public void opCount ()
    {
       opCount++;
    }
+   public void inCount()
+   {
+      inCount++;
+   }
 
-   public int getCount ()
+   public int getOpCount ()
    {
      return opCount;
+   }
+
+   public int getInCount()
+   {
+     return inCount;
    }
 
 }
