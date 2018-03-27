@@ -74,12 +74,12 @@ public class AVLTree<dataType extends Comparable<? super dataType>> extends Bina
          return new BinaryTreeNode<dataType> (d, null, null);
       if (d.toString().compareTo (node.data) <= 0)
       {
-         inCount();
+         //inCount();
          node.left = insert (d, node.left);
       }
       else
       {
-         inCount();
+         //inCount();
          node.right = insert (d, node.right);
       }
       return balance (node);

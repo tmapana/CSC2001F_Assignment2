@@ -1,0 +1,15 @@
+#!/bin/bash
+# Tlotliso Mapana
+
+count=211
+
+head -n $count data/AllDams.txt > TempData.txt
+for j in {1..211}
+do
+	name=$(cat TempData.txt |cut -d$'\n' -f $j|cut -d',' -f1)
+	java -cp ./bin DamAVLApp "$name" >> data/AVL/TestResults2.txt
+	java -cp ./bin DamBSTApp "$name" >> data/BST/TestResults2.txt
+done
+echo "------------------------------------------------------------" >> data/AVL/TestResults2.txt
+echo "------------------------------------------------------------" >> data/BST/TestResults2.txt
+#done
